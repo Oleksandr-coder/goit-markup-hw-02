@@ -367,6 +367,10 @@ a {
 
 /* Портфолио */
 
+h1.hidden {
+  visibility: hidden;
+}
+
 /* Все */
 .button {
   background: #2196f3;
